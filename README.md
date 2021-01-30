@@ -4,5 +4,5 @@
 
 # 목표
 1. 데이터분석 학회에서 경진대회 최대한 많이 참가하기
-2. 개인적으로 Django공부하기
+2. 개인적으로 Django(HTML&CSS)공부하기
 3. 가능하면 SQL, BeautifulSoup까지 
