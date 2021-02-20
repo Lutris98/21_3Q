@@ -14,16 +14,18 @@ landing page(가입하고 기입할 수 있는)<br>
 SNS에 공유<br>
 
 # 유용한 사이트
+데이터
 1. 공공데이터 https://www.data.go.kr/index.do<br>
 2. 민간데이터 https://kdx.kr/main
 3. 국가포털 https://aihub.or.kr/
-4. Numerai(competition for AI hedgefunds) https://numer.ai/
-
+사이트구축
 1. Godaddy https://kr.godaddy.com/?checkAvail=1
 2. Brandmark https://brandmark.io/
-3. Algorithmia(deploy&manage ML&DL models in UserFriendly way) https://algorithmia.com/
-4. Trello(manage tasks in teamwork) https://trello.com/
+4. Algorithmia(deploy&manage ML&DL models in UserFriendly way) https://algorithmia.com/
+협업1
+5. Trello(manage tasks in teamwork) https://trello.com/
 
 # 실행과정
 1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
-2. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
+- Numerai(competition for AI hedgefunds) https://numer.ai/
+3. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
