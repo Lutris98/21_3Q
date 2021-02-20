@@ -16,4 +16,4 @@ Algorithmia deploy&manage ML&DL models in UserFriendly way<br>
 
 # 실행과정
 1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
-2. DB구축, 자동화 끝내고 Tensorflow Serving공부
+2. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
