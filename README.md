@@ -18,14 +18,16 @@ SNS에 공유<br>
 1. 공공데이터 https://www.data.go.kr/index.do<br>
 2. 민간데이터 https://kdx.kr/main<br>
 3. 국가포털 https://aihub.or.kr/<br>
+
 사이트구축<br>
-1. Godaddy https://kr.godaddy.com/?checkAvail=1<br>
-2. Brandmark https://brandmark.io/<br>
-4. Algorithmia(deploy&manage ML&DL models in UserFriendly way) https://algorithmia.com/<br>
+5. Godaddy https://kr.godaddy.com/?checkAvail=1<br>
+6. Brandmark https://brandmark.io/<br>
+7. Algorithmia(deploy&manage ML&DL models in UserFriendly way) https://algorithmia.com/<br>
+
 협업<br>
 5. Trello(manage tasks in teamwork) https://trello.com/<br>
 
 # 실행과정
 1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
 - Numerai(competition for AI hedgefunds) https://numer.ai/
-3. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
+2. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
