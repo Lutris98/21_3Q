@@ -14,5 +14,6 @@ SNS에 공유<br>
 4. 유용한 사이트<br>
 Algorithmia deploy&manage ML&DL models in UserFriendly way<br>
 
-# 실행과장
-1. 데이터분석 학회에서 경진대회 최대한 많이 참가하기(기본 역량 기르기) <br>
+# 실행과정
+1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
+2. DB구축, 자동화 끝내고 Tensorflow Serving공부
