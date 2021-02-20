@@ -13,6 +13,7 @@ landing page(가입하고 기입할 수 있는)<br>
 SNS에 공유<br>
 4. 유용한 사이트<br>
 Algorithmia deploy&manage ML&DL models in UserFriendly way<br>
+Trello manage tasks in teamwork
 
 # 실행과정
 1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
