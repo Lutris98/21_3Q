@@ -31,7 +31,7 @@ SNS에 공유<br>
 - User Authentication(SQL)
 - Database(SQL)
 - Payment(Stripe)
-- Uploads(Flask native)
+- Uploads(Django/Flask)
 - Inference(Keras)
 
 # 실행과정
