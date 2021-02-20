@@ -33,6 +33,7 @@ SNS에 공유<br>
 - Payment(Stripe)
 - Uploads(Django/Flask)
 - Inference(Keras)
+- continuous serving(Tensorflow Serving)
 
 # 실행과정
 1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
