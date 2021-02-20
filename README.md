@@ -6,7 +6,8 @@ AI 스타트업 만들 수준에 도달하기<br>
 Data->Chips(Nvidia dominant)->Processing(AWS,Azure,GCP(optimized for tensorflow))<br>
 2. 생태계에 진입하는 방법<br>
 대기업이 놓칠만한 세부적 분야에 대한 도메인 지식<br>
-쌓이는 데이터로 진입장벽 만들기 <br>
+ex)의료분야에서 scanning중 lungscanning이 진입각(충분히 전문화되어있지 않고 가격대가 높음)
+쌓이는 데이터로 진입장벽 만들고  <br>
 ex)Affirm(시가총액 272억) 판매시점에 대출<br>
 3. 필요한 것<br>
 landing page(가입하고 기입할 수 있는)<br>
