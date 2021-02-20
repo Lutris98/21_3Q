@@ -20,12 +20,19 @@ SNS에 공유<br>
 3. 국가포털 https://aihub.or.kr/<br>
 
 사이트구축<br>
-1. Godaddy https://kr.godaddy.com/?checkAvail=1<br>
-2. Brandmark https://brandmark.io/<br>
-3. Algorithmia(deploy&manage ML&DL models in UserFriendly way) https://algorithmia.com/<br>
+1. Brandmark https://brandmark.io/<br>
+2. Mailchimp https://mailchimp.com/?gclid=Cj0KCQiA4L2BBhCvARIsAO0SBdZj5PT2CoPg6KuVVmG458VDdEMIQNniwA2zYNzEFhbiiQsvnu1BNHcaApLpEALw_wcB&gclsrc=aw.ds
+3. Godaddy https://kr.godaddy.com/?checkAvail=1<br>
 
 협업<br>
 1. Trello(manage tasks in teamwork) https://trello.com/<br>
+
+# 기술
+- User Authentication(SQL)
+- Database(SQL)
+- Payment(Stripe)
+- Uploads(Flask native)
+- Inference(Keras)
 
 # 실행과정
 1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
