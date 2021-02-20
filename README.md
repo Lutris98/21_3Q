@@ -1,8 +1,18 @@
-# 나간 직후 공부할 것
-1. pip install관련 내용 
-2. GPU TPU관련 내용
-
 # 목표
-1. 데이터분석 학회에서 경진대회 최대한 많이 참가하기
-2. 개인적으로 Django-inflearn(HTML&CSS-생활코딩)공부하기
-3. 가능하면 SQL, BeautifulSoup까지 
+AI 스타트업 만들 수준에 도달하기<br>
+
+# 정보 
+1. AI 생태계<br>
+Data->Chips(Nvidia dominant)->Processing(AWS,Azure,GCP(optimized for tensorflow))<br>
+2. 생태계에 진입하는 방법<br>
+대기업이 놓칠만한 세부적 분야에 대한 도메인 지식<br>
+쌓이는 데이터로 진입장벽 만들기 <br>
+ex)Affirm(시가총액 272억) 판매시점에 대출<br>
+3. 필요한 것<br>
+landing page(가입하고 기입할 수 있는)<br>
+SNS에 공유<br>
+4. 유용한 사이트<br>
+Algorithmia deploy&manage ML&DL models in UserFriendly way<br>
+
+# 실행과장
+1. 데이터분석 학회에서 경진대회 최대한 많이 참가하기(기본 역량 기르기) <br>
