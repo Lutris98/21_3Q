@@ -1,13 +1,14 @@
-# 목표
-SQLD와 빅데이터 분석기사 취득하기
-분수를 알고 선택과 집중(프로그래밍 기량으로는 못이긴다. 도메인 지식을 얹든가등 인턴자리 노리자)
+# 7,8월 목표
+1. 컴활, 토플 점수 취득<br>
+경제,컨설팅 인턴위한 최소조건<br>
+분수를 알고 선택과 집중(프로그래밍 기량으로는 못이긴다. 도메인 지식을 얹든가등 인턴자리 노리자)<br>
+2. SQLD와 빅데이터 분석기사 취득하기<br>
+전공살리기위한 노력<br>
+3. 서비스 구현 노력
 
-# 실행과정
-1. 학회에서 DACON 3개 참가하기(기본 역량 기르기) <br>
-
-1Q엔 기초적인 competition을 해봤으니
-2Q엔 심화적인 competition
-
+# 캐글과 데이콘
+1. 학회가입
+1Q엔 기초적인 competition을 해봤으니 2Q엔 심화적인 competition
 Type(Advanced)|Competition|Link
 -|-|-
 분류|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
@@ -16,10 +17,9 @@ Type(Advanced)|Competition|Link
 회귀(시계열)|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
 군집화|코로나 데이터 시각화 AI 경진대회|https://dacon.io/competitions/official/235590/overview/
 
-- Numerai(competition for AI hedgefunds) https://numer.ai/
-3. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
+2. DB구축, 자동화 끝내고 Tensorflow Serving공부(경진대회보단 PersonalProject위주로)
 
-# 서비스구축에 유용한 사이트및 필요한 기술 
+# 서비스구현(유용한 사이트/필요한 기술)
 데이터
 1. 공공데이터 https://www.data.go.kr/index.do<br>
 2. 민간데이터 https://kdx.kr/main<br>
