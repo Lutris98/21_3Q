@@ -4,11 +4,12 @@
 분수를 알고 선택과 집중(프로그래밍 기량으로는 못이긴다. 도메인 지식을 얹든가등 인턴자리 노리자)<br>
 2. SQLD와 빅데이터 분석기사 취득하기<br>
 전공살리기위한 노력<br>
-3. 서비스 구현 노력
+3. 서비스구현 시도
 
 # 캐글과 데이콘
 1. 학회가입
 1Q엔 기초적인 competition을 해봤으니 2Q엔 심화적인 competition
+
 Type(Advanced)|Competition|Link
 -|-|-
 분류|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
