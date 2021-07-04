@@ -1,8 +1,7 @@
 # 노트북 필사공부
 Type|Competition|Link
 -|-|-
-분류|Costa Rican Household Poverty Level Prediction|<a href="https://kaggle-kr.tistory.com/17?category=868316">타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning</a></br>
-<a href="https://www.kaggle.com/ash316/eda-to-prediction-dietanic">EDA To Prediction(DieTanic)</a>
+분류|Costa Rican Household Poverty Level Prediction|<a href="https://kaggle-kr.tistory.com/17?category=868316">타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning</a></br><a href="https://www.kaggle.com/ash316/eda-to-prediction-dietanic">EDA To Prediction(DieTanic)</a>
 <a href="https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling">Titanic Top 4% with ensemble modeling</a>
 <a href="https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python">Introduction to Ensembling/Stacking in Python</a>
 분류|Porto Seguro’s Safe Driver Prediction|<a href="https://www.kaggle.com/bertcarremans/data-preparation-exploration">Data Preparation &amp; Exploration</a>
